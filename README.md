@@ -30,10 +30,6 @@ Welcome to my GitHub profile! I'm a passionate developer who loves diving deep i
 - **Data Streaming:** Apache Kafka
 - **Architectures:** Microservices
 
-## 📈 GitHub Stats
-
-![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=jiraiya-the-pervy-sage&show_icons=true&theme=radical)
-
 ## 🎉 Fun Facts
 
 - I love contributing to private projects.
