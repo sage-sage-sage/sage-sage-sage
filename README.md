@@ -30,6 +30,13 @@ Welcome to my GitHub profile! I'm a passionate developer who loves diving deep i
 - **Data Streaming:** Apache Kafka
 - **Architectures:** Microservices
 
+## 📈 GitHub
+
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=jiraiya-the-pervy-sage&theme=radical)](https://git.io/streak-stats)
+
+![Profile Views](https://komarev.com/ghpvc/?username=jiraiya-the-pervy-sage&color=blue)
+
+
 ## 🎉 Fun Facts
 
 - I love contributing to private projects.
